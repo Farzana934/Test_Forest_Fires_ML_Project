@@ -137,6 +137,6 @@ This project is open-source and available under the MIT License.
 
 ![FWI Prediction App](screenshots/picture1.png)
 
-(screenshots/picture2.png)
+![FWI Prediction App](screenshots/picture2.png)
 
-(screenshots/picture3.png)
+![FWI Prediction App](screenshots/picture3.png)
