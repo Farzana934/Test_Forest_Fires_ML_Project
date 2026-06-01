@@ -133,3 +133,10 @@ Developed as a Machine Learning and Flask deployment project for learning and de
 ## License
 
 This project is open-source and available under the MIT License.
+## Application Screenshot
+
+![FWI Prediction App](screenshots/picture1.png)
+
+(screenshots/picture2.png)
+
+(screenshots/picture3.png)
